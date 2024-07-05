@@ -12,6 +12,10 @@ StikApp App is an iOS application built using SwiftUI, designed to offer multipl
 
 At StikApp we are dedicated to provideing a secure user experiance, so parts of the code will be open sourced. It will only be parts to ensure that the code is not stolen.
 
+## Where can I download?
+
+Check releases for beta builds. StikApp will be on the AppStore in September.
+
 ## Screenshots
 <p align="center">
     <img src="screenshots/main_menu.png" width="200">
