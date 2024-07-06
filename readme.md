@@ -1,4 +1,4 @@
-# StikApp App
+# StikApp App - Public Open Sourced Code
 
 StikApp App is an iOS application built using SwiftUI, designed to offer multiple tools in one place, including a Calculator, To-Do List, and Unit Converter.
 
