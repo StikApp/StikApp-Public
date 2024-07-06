@@ -7,19 +7,8 @@ StikApp App is an iOS application built using SwiftUI, designed to offer multipl
 - **Calculator:** Perform basic arithmetic operations.
 - **To-Do List:** Manage your tasks efficiently.
 - **Unit Converter:** Convert units of measurement (e.g., meters to kilometers, grams to kilograms).
+- **And More:** Coming soon!
 
 ## Where is the code?
 
 At StikApp we are dedicated to provideing a secure user experiance, so parts of the code will be open sourced. It will only be parts to ensure that the code is not stolen.
-
-## Where can I download?
-
-Check releases for beta builds. StikApp will be on the AppStore in September.
-
-## Screenshots
-<p align="center">
-    <img src="screenshots/main_menu.png" width="200">
-    <img src="screenshots/calculator.png" width="200">
-    <img src="screenshots/todo_list.png" width="200">
-    <img src="screenshots/unit_converter.png" width="200">
-</p>
